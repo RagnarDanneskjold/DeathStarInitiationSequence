@@ -2,8 +2,19 @@
 //  main.cpp
 //  death star
 //
-//  Created by shannon morrisey on 9/29/13.
-//  2013 shannon morrisey. All rights reserved.
+//         DO AS YOU PLEASE PUBLIC LICENSE 
+                    Version X 
+
+
+
+ Everyone is permitted to copy and distribute verbatim or modified 
+ copies of this document. 
+
+             DO AS YOU PLEASE LICENSE VX 
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
+  0.  DO AS YOU PLEASE.
+  1.  DO AS YOU PLEASE.
+
 //
 
 #include <iostream>
@@ -35,13 +46,13 @@ int main  ()
         
         cin >> target;
         if (target == Mos Eisley)
-            cout << "Alert: Imperial ground troop ME evacuation initiated" << endl;((and begin class x))
+            cout << "Alert: Imperial ground troop ME evac; All fleet in orbit draw back" << endl;((and begin class x,y,m))
         
         else if (target == Alderann)
-            cout << "LOL - Too Late - HAHA  suckers!  Pew Pew" << endl;
+            cout <<  "Pew Pew" << endl;
         
         else if (target == Rebel Base ??indexed coordinates??)
-            cout << "Acquiring Target - Please Standby" << endl;  (and begin class X)
+            cout << "Acquiring Target - Standby" << endl;  (and begin class X)
         
         else 
             cout << "Invalid Entry" << endl;
